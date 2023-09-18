@@ -22,34 +22,114 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure Roles, Departments, Teams
+- Allow anyone to create tickets
+- Configure Agents (employees), Users (customers)
+- Configure SLA (service level agreements)
+- Configure Help Topics
 
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+1. Configure Roles
+
+  First, go to the Admin Panel, then Agents, and finally Roles. We will create a role named Supreme Admin.
+  
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+2. Configure Departments
+
+  First, go to the Admin Panel, then Agents, and finally Departments. We will create a department named System Administrators.
+  
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+3. Configure Teams
+
+  First, go to the Admin Panel, then Agents, and finally Teams. We will create 2 teams named, Level I Support and Level II Support.
+  
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+4. We will allow anyone to create a ticket
+
+  First, go to the Admin Panel, then Settings, and then User Settings. We will make it so users are required to register and log in to create tickets.
+  
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+5. Configure Agents (employees)
+
+  First go to the Admin Panel, then Agents, and click on Add New. We will add two "employees" named, Jane and John.
+  
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+6. Configure Users (customers)
+
+  First, we will go to the Agent Panel this time. Then click on Users and Add New. We will add two "customers" named, Karen and Ken.
+  
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+7. Configure SLA (Service Level Agreements)
+
+  First, go to the Admin Panel, next Manage, and then SLA. We will create three severity levels. One being Sev-A. Make it so you want it resolved within an hour on a 24/7 time clock. 
+
+  Next, create the second SLA, Sev-B. Require it to be resolved within 4 hours on a 24/7 time clock.
+
+  Finally, create the third SLA, Sev-C. Require it to be resolved within 8 hours, but only during business hours, Monday through Friday 8 am - 5 pm.
+  
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+8. Configure Help Topics
+
+  First, go to the Admin Panel, Manage, and then Help Topics. Create four new help topics.
+    - Business Critical Outage
+    - Personal Computer Issues
+    - Equipment Request
+    - Password Reset
+    
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+Congrats, we've now finished our post-installation setup, completing all our objectives.
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
