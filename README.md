@@ -115,10 +115,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 8. Configure Help Topics
 
   First, go to the Admin Panel, Manage, and then Help Topics. Create four new help topics.
-    - Business Critical Outage
-    - Personal Computer Issues
-    - Equipment Request
-    - Password Reset
+  
+  - Business Critical Outage
+  - Personal Computer Issues
+  - Equipment Request
+  - Password Reset
     
 </p>
 <p>
