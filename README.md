@@ -8,8 +8,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -37,7 +35,13 @@ This tutorial outlines the post-install configuration of the open-source help de
   
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/n8som/post-install-config/assets/110139109/0d363112-6627-4eaa-b932-813d2c9013f2)
+
+![image](https://github.com/n8som/post-install-config/assets/110139109/5698cd03-0526-4064-bd54-56895ad5d501)
+
+![image](https://github.com/n8som/post-install-config/assets/110139109/b6923062-7d55-42ad-9598-b493bd624f93)
+
 </p>
 <br />
 
@@ -48,7 +52,9 @@ This tutorial outlines the post-install configuration of the open-source help de
   
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/n8som/post-install-config/assets/110139109/3ad713c7-aee7-42e3-84f2-e4b2cc83d319)
+
 </p>
 <br />
 
@@ -59,7 +65,9 @@ This tutorial outlines the post-install configuration of the open-source help de
   
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/n8som/post-install-config/assets/110139109/94808e0c-f2a3-42f6-ae05-23b277d07228)
+
 </p>
 <br />
 
@@ -70,29 +78,41 @@ This tutorial outlines the post-install configuration of the open-source help de
   
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/n8som/post-install-config/assets/110139109/c0025313-4d2f-48a5-9443-315dd24af1e4)
+
 </p>
 <br />
 
 <p>
 5. Configure Agents (employees)
 
-  First go to the Admin Panel, then Agents, and click on Add New. We will add two "employees" named, Jane and John.
+  First go to the Admin Panel, then Agents, and click on Add New. We will add two "employees" named, Jane and Jake.
+
+  ![image](https://github.com/n8som/post-install-config/assets/110139109/7bde5291-aba2-46af-9d77-b6bc58c645f2)
+
+  ![image](https://github.com/n8som/post-install-config/assets/110139109/21e09089-27a4-44b1-aeae-6be2289c3486)
+
+  ![image](https://github.com/n8som/post-install-config/assets/110139109/bfb4c589-dbfd-41aa-a576-0a5e98ae3305)
   
-</p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
 6. Configure Users (customers)
 
-  First, we will go to the Agent Panel this time. Then click on Users and Add New. We will add two "customers" named, Karen and Ken.
-  
-</p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  First, we will go to the Agent Panel this time.
+
+  ![image](https://github.com/n8som/post-install-config/assets/110139109/7a00bcd9-e322-4dd5-8e11-f651fcc171b7)
+
+  Then click on Users and Add New.
+
+  ![image](https://github.com/n8som/post-install-config/assets/110139109/6b5a8944-8fd0-4c51-a566-a7e85bf65fda)
+
+  We will add two "customers" named, Karen and Ken.
+
+  ![image](https://github.com/n8som/post-install-config/assets/110139109/3c6fefd6-e9e3-4b5e-9f0e-440d82cf6433)
+
 </p>
 <br />
 
@@ -107,7 +127,9 @@ This tutorial outlines the post-install configuration of the open-source help de
   
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/n8som/post-install-config/assets/110139109/fa013411-fae7-416b-8c77-b4936d4dcee9)
+
 </p>
 <br />
 
@@ -123,14 +145,13 @@ This tutorial outlines the post-install configuration of the open-source help de
     
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/n8som/post-install-config/assets/110139109/fd30aaab-47fb-4b26-94ed-f2172d23777a)
+
 </p>
 <br />
 
 <p>
 Congrats, we've now finished our post-installation setup, completing all our objectives.
-</p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
